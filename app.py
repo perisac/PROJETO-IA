@@ -18,7 +18,7 @@ def main():
     # ]
 
 
-    # Como a rotação não é utilizada, as restirei --
+    # Como a rotação não é utilizada, as restirei 
     recortes_disponiveis = [
         {"tipo": "retangular", "largura": 29, "altura": 29, "x": 1, "y": 1},
         {"tipo": "retangular", "largura": 29, "altura": 29, "x": 31, "y": 1},
